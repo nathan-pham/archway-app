@@ -1,0 +1,21 @@
+#container {
+	text-align: center;
+}
+#container img {
+	border-radius: 0.5rem;
+	height: 10rem;
+	width: 10rem;
+}
+#container p,
+#container a {
+	font-size: 1.1rem;
+}
+#container p {
+	color: var(--black);
+	margin: 0.75rem 0;
+}
+#container a {
+	color: var(--primary);
+	text-decoration: underline;
+	cursor: pointer;
+}
